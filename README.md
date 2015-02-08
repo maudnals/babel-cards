@@ -1,7 +1,7 @@
 Babel-cards
 ===========
 
-Babel-cards is an **Android mobile app project** for **vocabulary learning**, by making taking note of words and memorizing them more easily.
+Babel-cards is an **Android mobile app project** for **vocabulary learning**.
 
-* Documentation, user research, UX aspects are in the [wiki](https://github.com/maudnals/babel-cards/wiki).  
+* The whole design process and the UX-related work are in the [wiki](https://github.com/maudnals/babel-cards/wiki).  
 * A prototype (work in progress) is available [here](https://github.com/maudnals/babel-cards-proto).
